@@ -6,3 +6,14 @@ var worker = function (userList) {
 
 
 module.exports = worker;
+
+//template
+// 'use strict';
+// const _ = require('lodash');
+
+// const worker = function (/* arguments */) {
+    
+// };
+
+
+// module.exports = worker;
